@@ -29,7 +29,7 @@
             <script src="https://cdn.omise.co/omise.js"></script>
             <script>
                 // Set Omise Public Key (from omise.co > log in > Keys tab)
-                Omise.setPublicKey("pkey_test");
+                Omise.setPublicKey("pkey_test_53x6wu9xs4h7zqkzq37");
             </script>
 
             <!--
